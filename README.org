@@ -1,0 +1,23 @@
+# README.org
+# Author: Claudio <3261958605@qq.com>
+# Created: 2017-08-12 23:52:41
+# Commentary:
+#+TITLE: 撸题小程序
+
+* 功能
+
+  根据choice.json和judgment.json两个文件中的数据，实现图形界面题库练习。
+
+  “确定”：确定当前答案。
+
+  “提示”：提示争取答案。
+
+  “下一题”：直接跳到下一题。
+
+  “交卷”：提交所有答案，并填写对应工号Excel表格。
+
+* 更新记录
+
+** Version0.01
+
+   初始化
